@@ -1,6 +1,6 @@
 # 目录
 
-2024年10月至2025年10月工作在[TrackingMap_2410-2510.md](./TrackingMap_2410-2510.md)
+2024年10月至2025年10月工作在: [TrackingMap_2410-2510.md](./TrackingMap_2410-2510.md)
 
 这里呈现的是2025年10月之后的工作。
 
@@ -22,3 +22,6 @@
 - kernels在npu中使用所依赖的hub中各kernel的源码：https://github.com/pt-ecosystem/kernels-ext-npu
 
 ### Liger-kernel 的原生支持
+
+- Roadmap: https://github.com/linkedin/Liger-Kernel/issues
+- Adjust MAX_FUSED_SIZE when using fused_linear_cross_entropy: https://github.com/linkedin/Liger-Kernel/pull/985
