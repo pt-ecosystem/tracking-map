@@ -7,7 +7,7 @@
 
 # 项目清单
 
-## 25年11月
+## 25年11月-12月
 
 ### huggingface/kernels 及其衍生工具
 
@@ -25,3 +25,7 @@
 
 - Roadmap: https://github.com/linkedin/Liger-Kernel/issues
 - Adjust MAX_FUSED_SIZE when using fused_linear_cross_entropy: https://github.com/linkedin/Liger-Kernel/pull/985
+
+### VeOmni 的特性支持
+
+- 升级 transformers 到 v5 版本：https://github.com/ByteDance-Seed/VeOmni/pull/348
