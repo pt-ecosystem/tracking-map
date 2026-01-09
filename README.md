@@ -29,3 +29,8 @@
 ### VeOmni 的特性支持
 
 - 升级 transformers 到 v5 版本：https://github.com/ByteDance-Seed/VeOmni/pull/348
+
+
+## 26年1月
+
+## 开新坑：verl + VeOmni + transformers v5 + Liger-Kernel + kernels 最近的一些工作整合成一个demo
