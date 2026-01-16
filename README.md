@@ -39,4 +39,4 @@ pass
 
 ## 顺便把三方库对外呈现的文档重构一下
 
-关注这里的PR：https://github.com/Ascend/docs/pull/94
+关注这里的PR：https://github.com/Ascend/docs/pull/94, https://github.com/Ascend/docs/pull/96
