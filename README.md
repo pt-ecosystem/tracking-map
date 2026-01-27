@@ -35,9 +35,11 @@
 
 ### 开新坑：verl + VeOmni + transformers v5 + Liger-Kernel + kernels 最近的一些工作整合成一个demo
 
-pass
+- https://github.com/linkedin/Liger-Kernel/issues/969#issuecomment-3797715591
+- https://github.com/ByteDance-Seed/VeOmni/pull/415
 
 ### 顺便把三方库对外呈现的文档重构一下
 
 - 新文档贡献：https://github.com/Ascend/docs/pull/94
 - 存量文档重构：https://github.com/Ascend/docs/pull/95, https://github.com/Ascend/docs/pull/96
+- 新方案下文档继续重构: https://github.com/Ascend/docs/pull/100
