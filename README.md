@@ -43,5 +43,6 @@
 - 新文档贡献：https://github.com/Ascend/docs/pull/94
 - 存量文档重构：https://github.com/Ascend/docs/pull/95, https://github.com/Ascend/docs/pull/96
 - 新方案下文档继续重构: https://github.com/Ascend/docs/pull/100
+- 文档目录按字典序重新排序：https://github.com/Ascend/docs/pull/102
 - 其他文档断点管理：
     - https://github.com/verl-project/verl/issues/4911
