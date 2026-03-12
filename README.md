@@ -37,6 +37,7 @@
 
 - https://github.com/linkedin/Liger-Kernel/issues/969#issuecomment-3797715591
 - https://github.com/ByteDance-Seed/VeOmni/pull/415
+- 还有就是将这个仓复活，作为承载npu kernel的仓库：https://github.com/pt-ecosystem/kernels-ext-npu
 
 ### 顺便把三方库对外呈现的文档重构一下
 
@@ -47,3 +48,7 @@
 - 日常修复：https://github.com/Ascend/docs/pull/106
 - 其他文档断点管理：
     - https://github.com/verl-project/verl/issues/4911
+
+### CI工作
+- 打算将这个仓复活：https://github.com/Ascend/Ascend-CI
+
