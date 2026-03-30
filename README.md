@@ -31,12 +31,19 @@
 - 升级 transformers 到 v5 版本：https://github.com/ByteDance-Seed/VeOmni/pull/348
 
 
-## 26年1月
+## 26年1月-3月
+
+### Liger-kernel 的原生支持
+
+- https://github.com/linkedin/Liger-Kernel/pull/1149
+- https://github.com/linkedin/Liger-Kernel/pull/1153
+- https://github.com/linkedin/Liger-Kernel/pull/1162
 
 ### 开新坑：verl + VeOmni + transformers v5 + Liger-Kernel + kernels 最近的一些工作整合成一个demo
 
 - https://github.com/linkedin/Liger-Kernel/issues/969#issuecomment-3797715591
 - https://github.com/ByteDance-Seed/VeOmni/pull/415
+- https://github.com/hiyouga/LlamaFactory/pull/10319
 - 还有就是将这个仓复活，作为承载npu kernel的仓库：https://github.com/pt-ecosystem/kernels-ext-npu
 
 ### 顺便把三方库对外呈现的文档重构一下
