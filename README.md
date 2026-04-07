@@ -61,3 +61,13 @@
 ### CI工作
 - 打算将这个仓复活：https://github.com/Ascend/Ascend-CI
 
+
+## 26年4月
+
+## kernels
+
+## Liger-Kernel
+
+## Ascend/docs
+
+## Ascend/Ascend-CI
