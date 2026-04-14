@@ -64,10 +64,6 @@
 
 ## 26年4月
 
-## kernels
+### LLaMA-Factory + Liger-Kernel
 
-## Liger-Kernel
-
-## Ascend/docs
-
-## Ascend/Ascend-CI
+- https://github.com/hiyouga/LlamaFactory/issues/10386
