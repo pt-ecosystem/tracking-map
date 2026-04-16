@@ -64,6 +64,10 @@
 
 ## 26年4月
 
+### Liger-Kernel 本身
+
+- https://github.com/linkedin/Liger-Kernel/issues/969
+
 ### LLaMA-Factory + Liger-Kernel
 
 - https://github.com/hiyouga/LlamaFactory/issues/10386
