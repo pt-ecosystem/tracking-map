@@ -66,7 +66,8 @@
 
 ### Liger-Kernel 本身
 
-- https://github.com/linkedin/Liger-Kernel/issues/969
+- Roadmap更新：https://github.com/linkedin/Liger-Kernel/issues/969
+- 很重要的 kernel 新增：https://github.com/linkedin/Liger-Kernel/pull/1183
 
 ### LLaMA-Factory + Liger-Kernel
 
