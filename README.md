@@ -72,3 +72,9 @@
 ### LLaMA-Factory + Liger-Kernel
 
 - https://github.com/hiyouga/LlamaFactory/issues/10386
+
+### verl + Liger-Kernel
+
+- https://github.com/verl-project/verl/pull/6244
+
+
