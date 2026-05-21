@@ -68,6 +68,10 @@
 
 - Roadmap更新：https://github.com/linkedin/Liger-Kernel/issues/969
 - 很重要的 kernel 新增：https://github.com/linkedin/Liger-Kernel/pull/1183
+- 升级 transformers：https://github.com/linkedin/Liger-Kernel/pull/1221
+- 适配 LK 到 A3 机器[2/2]：https://github.com/linkedin/Liger-Kernel/pull/1227
+- 适配 LK 到 A3 机器[1/2]：https://github.com/linkedin/Liger-Kernel/pull/1220
+- 算子优化-swigle：https://github.com/linkedin/Liger-Kernel/pull/1219
 
 ### LLaMA-Factory + Liger-Kernel
 
