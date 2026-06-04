@@ -62,7 +62,7 @@
 - 打算将这个仓复活：https://github.com/Ascend/Ascend-CI
 
 
-## 26年4月
+## 26年4月-6月
 
 ### Liger-Kernel 本身
 
@@ -72,6 +72,7 @@
 - 适配 LK 到 A3 机器[2/2]：https://github.com/linkedin/Liger-Kernel/pull/1227
 - 适配 LK 到 A3 机器[1/2]：https://github.com/linkedin/Liger-Kernel/pull/1220
 - 算子优化-swigle：https://github.com/linkedin/Liger-Kernel/pull/1219
+- 固定 triton-ascend 版本：https://github.com/linkedin/Liger-Kernel/pull/1236
 
 ### LLaMA-Factory + Liger-Kernel
 
@@ -81,4 +82,6 @@
 
 - https://github.com/verl-project/verl/pull/6244
 
+### flash-linear-attention
 
+- https://github.com/fla-org/flash-linear-attention/pull/927
