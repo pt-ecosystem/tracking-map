@@ -85,3 +85,10 @@
 ### flash-linear-attention
 
 - https://github.com/fla-org/flash-linear-attention/pull/927
+
+
+## 26年7月
+
+### 7月的重点基本就放在 flash-linear-attention 了
+
+- https://github.com/fla-org/flash-linear-attention/issues/942
